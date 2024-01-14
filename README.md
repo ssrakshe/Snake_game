@@ -10,6 +10,8 @@ It's a classic Snake game created using Python, incorporating fundamental concep
 I utilized the power of PyCharm software to bring this game to life. The game includes essential functionalities like handling user input, managing the snake's movement, and incorporating visual elements to enhance the gaming experience.
 
 **Conclusion**-
+The Python code implements a basic Snake game where the player controls the snake to eat food and grow longer. The game displays the player's score, and it ends if the snake collides with the boundaries or itself. The player can restart the game and try to achieve a higher score. The code utilizes the Pygame library for graphics and user input handling.
+
 This project has been an incredible learning experience, allowing me to apply theoretical knowledge to a practical scenario. As I reflect on the journey, I'm grateful for the support and resources that have fueled my growth as a budding game developer.
 
 **Tech Stack**-
